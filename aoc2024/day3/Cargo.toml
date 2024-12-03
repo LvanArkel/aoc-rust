@@ -1,0 +1,9 @@
+[package]
+name = "day3"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+fancy-regex = "0.14.0"
+aocio = {path = "../../aocio"}
+aocutils = {path = "../../aocutils"}
